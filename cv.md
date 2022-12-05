@@ -1,4 +1,4 @@
-# Rostislav Kuzmenko#
+# Rostislav Kuzmenko
 ![my photo](./IMG_20170814_204828_510.jpg)
 Ros Kuzmenko(@Stealss)
 ## I am a doctor by training, but I became disillusioned with the healthcare system and therefore decided to move to IT. I have no experience in this area, but I am very interested in it, so I will do my best to finish this course well.
