@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Stealss.github.io/rsschool-cv/cv
