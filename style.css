@@ -3,13 +3,14 @@ body{
     font-size: 18px;
     font-weight: 400;
     line-height: 1.5;
-    color: #4d2323;
+    color:white;
 
     min-height: 100vh;
     margin: 0; padding: 0;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: #171718;
 }
 html {
     scroll-behavior: smooth; 
@@ -19,13 +20,13 @@ html {
   }
  
   .header{
-    border: 1px solid red;
+    
   }
   .main{
-    border: 1px solid red;
+    
   }
   .footer{
-    border: 1px solid red;
+    
   }
   .container {
     max-width: 1440px;
@@ -41,11 +42,11 @@ html {
     padding: 0 20px;
     line-height: 50px;
     text-decoration: none;
-    color: black;
+    color:white;
     transition: .3s;
   }
   .nav-link:hover{
-    color: rgb(24, 184, 130);
+    color: #5C62EC;
   }
   .main-container {
     display: flex;
@@ -54,6 +55,9 @@ html {
   
   .section {
     width: 50%;
+    padding: 10px;
+    padding-bottom: 35px;
+   
   }
   @media (max-width: 768px) {
     .section {
@@ -65,5 +69,19 @@ html {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #829985;
+    color: #5C62EC;
   }
+  .section-profile {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 40px 25px 30px;
+   
+}
+.section-profile-logo {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+}
