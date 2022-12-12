@@ -94,3 +94,13 @@ html {
     border-radius: 50%;
     
 }
+.footer-info{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;  
+}
+.rs-image{
+    width: 120px;
+    height: 45px;
+
+}
